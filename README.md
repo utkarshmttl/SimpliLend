@@ -2,7 +2,7 @@
 Challenge number 2
 
 SimpliLendDemo is the java package for the android app.
-Server_side contains the model and controller files (part of MVC architecture based framework- CodeIgnitor)
+Server_side contains the model and controller files (part of MVC architecture based framework- CodeIgnitor) which are uploaded on the server.
 
 app-debug.apk is the unsigned apk file which can be downloaded on an android device and then installed to see thw working of the application.
 
