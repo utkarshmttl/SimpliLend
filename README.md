@@ -8,4 +8,4 @@ app-debug.apk is the unsigned apk file which can be downloaded on an android dev
 
 To check that the data stored in the database is not plaintext,
 go to http://hrrealvalue.com/sldemo/index.php/controllerauth/getdetails
-this calls a function which returns all the entries in the DB.
+this calls a function which returns all the entries in the DB in the form of a JSON object.
